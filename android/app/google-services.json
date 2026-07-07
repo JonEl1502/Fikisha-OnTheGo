@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233322497083",
+    "project_id": "onthego-ke",
+    "storage_bucket": "onthego-ke.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233322497083:android:32d3e13b1c2276ebac881e",
+        "android_client_info": {
+          "package_name": "ke.onthego.on_the_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233322497083-ro9h4k67c0dtq67ncbfo3q9i1doji21j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.onthego.on_the_go",
+            "certificate_hash": "e3ee020ffa1ad721651b41dacfed1d171c250879"
+          }
+        },
+        {
+          "client_id": "233322497083-mjqs5mmrv6u7dolg9ikkd7fd00dfukl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRCiZBea23y7CyIzzYqX1flmY4zXlwq1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233322497083-mjqs5mmrv6u7dolg9ikkd7fd00dfukl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
